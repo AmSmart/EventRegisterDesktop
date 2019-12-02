@@ -13,18 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace EventRegisterDesktop
+namespace EventRegisterDesktop.Pages
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for SharePage.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class SharePage : Page
     {
-        public MainWindow()
+        public SharePage()
         {
             InitializeComponent();
         }
-
-        
     }
 }
